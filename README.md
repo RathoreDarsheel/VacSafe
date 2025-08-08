@@ -1,2 +1,5 @@
-# VacSafe
-VacSafe is your personal guide to managing your family's immunizations. Effortlessly track schedules, understand vaccination needs, and get timely reminders, all in one place.
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
